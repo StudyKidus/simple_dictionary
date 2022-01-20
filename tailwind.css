@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind feComponentTransfer;
+
+@layer base {
+    * {
+        font-family: "Nunito", sans-serif;
+    }
+}
